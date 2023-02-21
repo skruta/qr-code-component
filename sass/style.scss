@@ -5,9 +5,8 @@
   --clr-grayish-blue: hsl(220, 15%, 55%);
   --clr-dark-blue: hsl(218, 44%, 22%);
   --fs-paragraph: rem(15);
-  --fw-200: 200;
   --fw-400: 400;
-  --fw-600: 600;
+  --fw-700: 600;
   --ff-outfit: 'Outfit', sans-serif;
 }
 
@@ -93,12 +92,12 @@ main {
 
   &__title {
     font-size: rem(22);
-    font-weight: var(--fw-600);
+    font-weight: var(--fw-700);
   }
 
   &__text {
     font-size: rem(15);
-    font-weight: var(--fw-200);
+    font-weight: var(--fw-400);
     color: var(--clr-grayish-blue);
   }
 }
