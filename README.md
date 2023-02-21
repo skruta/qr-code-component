@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Live previw](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -18,6 +19,10 @@ Provided solution:
 
 Design screenshot:
 ![](/design/desktop-preview.jpg)
+
+### Live preview
+
+https://qr-code-component-mu-wheat.vercel.app/
 
 ## My process
 
