@@ -33,7 +33,3 @@ https://qr-code-component-mu-wheat.vercel.app/
 - Flexbox
 - SASS
 - Vite
-
-### Differences
-
-In provided [style-guide](/style-guide.md) there are specified font weights: 400 and 700. For me, it was better to use 200 and 600 to match solution provided on [image](/design/desktop-preview.jpg).
